@@ -6,6 +6,8 @@
  - classified in 10 classes.
  - Accuracy of CNN= 94.5%
 \
+\
+\
 Architecture of CNN LeNet-5 \
 ![architecture](https://raw.githubusercontent.com/parsa-k/Fashion-MNIST-Dataset-CNN-LeNet5/main/info%20and%20result/architecture.PNG)\
 \
